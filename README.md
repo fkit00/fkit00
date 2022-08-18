@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @fkit00
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines= Hi+,+I&m+@fkit00)](https://git.io/typing-svg)
+
+
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning through the School Of Code Bootcamp!
 
