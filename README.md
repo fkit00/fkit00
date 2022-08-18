@@ -1,9 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+@fkit00)](https://git.io/typing-svg)
 
-
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning through the School Of Code Bootcamp!
+I’m interested in web development, with an emphasis on the backend
+ 
+I’ve just finished the School Of Code bootcamp and am looking for new opportunities! 
 
 
 
