@@ -6,6 +6,7 @@
 
 [![fkit00's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkit00)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkit00)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 fkit00/fkit00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
