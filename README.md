@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines= Hi+,+I&m+@fkit00)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I&m+@fkit00)](https://git.io/typing-svg)
 
 
 - 👀 I’m interested in web development
