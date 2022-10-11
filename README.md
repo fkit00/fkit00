@@ -1,9 +1,9 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+@fkit00)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Fiona)](https://git.io/typing-svg)
 
-I’m interested in web development, with an emphasis on the backend
- 
-I’ve just finished the School Of Code bootcamp and am looking for new opportunities! 
+I’m interested in web development, with an emphasis on the backend!
+
+Right now i'm working on getting my brain around python, testing and non-relational datbases
 
 
 What i've been using! 
