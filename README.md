@@ -18,8 +18,8 @@ What i've been using!
 [<img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white'>](<LINK>)
 [<img src='https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white'>](<LINK>)
 
-[https://github-readme-stats.vercel.app/api/top-langs/?username={fkit00}&theme=blue-green]
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkit00)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
