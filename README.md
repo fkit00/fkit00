@@ -19,7 +19,7 @@ What i've been using!
 [<img src='https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white'>](<LINK>)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkit00)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkit00)]
 
 
 <!---
