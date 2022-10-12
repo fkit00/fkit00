@@ -3,7 +3,7 @@
 
 I’m interested in web development and cybersecurity!
 
-Right now i'm working on getting my brain around python, testing and non-relational datbases. 
+Right now i'm working on getting my brain around python, testing and non-relational databases. 
 
 
 What i've been using! 
