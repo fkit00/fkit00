@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Fiona)](https://git.io/typing-svg)
 
-I’m interested in web development and cybersecurity!
+I’m interested in web development, testing and cybersecurity!
 
 Right now i'm working on getting my brain around python, testing and non-relational databases. 
 
