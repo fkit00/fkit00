@@ -1,7 +1,7 @@
 
-# Hi there, I'm Fiona, 
+# Hi there, i'm Fiona, 
 
-In 2022 i started began coding after getting onto a full stack bootcamp run by the fabulous folks at the School of Code. 
+In 2022, i started began coding after getting onto a full stack bootcamp run by the fabulous folks at the School of Code. 
 
 Before the start of the course i had just finished my masters in Violence, Terrorism and Security, with a focus on gender and radicalization within the far-right on social media (and am always up for a chat about it!). 
 
@@ -14,6 +14,7 @@ What i've been using!
 [<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>](<LINK>)
 [<img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>](<LINK>)
 [<img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>](<LINK>)
+[<img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>](<LINK>)
 [<img src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge'>](<LINK>)
 [<img src='https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white'>](<LINK>)
 [<img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>](<LINK>)
