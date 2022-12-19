@@ -1,10 +1,13 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Fiona)](https://git.io/typing-svg)
+# Hi there, I'm Fiona, 
 
-I’m interested in web development, testing and cybersecurity!
+In 2022 i started began coding after getting onto a full stack bootcamp run by the fabulous folks at the School of Code. 
 
-Right now i'm working on getting my brain around python, testing and non-relational databases. 
+Before the start of the course i had just finished my masters in Violence, Terrorism and Security, with a focus on gender and radicalization within the far-right on social media (and am always up for a chat about it!). 
 
+I'm really interested in Back-end development, Testing and Accessibility and right now am working on getting my brain around Python and TypeScript as well as expanding my knowledge of cyber security!
+
+You can find me at TryHackMe under the username boobear - I'm currently working through the web hacking path and the advent of cyber!
 
 What i've been using! 
 
