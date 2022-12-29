@@ -1,7 +1,7 @@
 
 # Hi there, i'm Fiona, 
 
-In 2022, i started began coding after getting onto a full stack bootcamp run by the fabulous folks at the School of Code. 
+In 2022, i started coding after getting onto a full stack bootcamp run by the fabulous folks at the School of Code. 
 
 Before the start of the course i had just finished my masters in Violence, Terrorism and Security, with a focus on gender and radicalization within the far-right on social media (and am always up for a chat about it!). 
 
