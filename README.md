@@ -1,5 +1,5 @@
 
-# Hi there, i'm Fiona, 
+# Hi there, I'm Fiona, 
 
 In 2022, i started coding after getting onto a full stack bootcamp run by the fabulous folks at the School of Code. 
 
