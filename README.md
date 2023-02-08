@@ -7,7 +7,7 @@ Before the start of the course i had just finished my masters in Violence, Terro
 
 I'm really interested in Back-end development, Testing and Accessibility and right now am working on getting my brain around Python and TypeScript as well as expanding my knowledge of cyber security!
 
-You can find me at TryHackMe under the username boobear - I'm currently working through the web hacking path and the advent of cyber!
+You can find me at TryHackMe under the username boobear - I've just finished the web hacking path and am moving onto the junior pen testing!
 
 What i've been using! 
 
